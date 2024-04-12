@@ -1,8 +1,3 @@
-<!--- <a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=goodeejay&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
---->
-
 <!-- Intro  -->
 <h2 align="center">
   <samp>&gt; Hey There!, I am 
@@ -41,6 +36,7 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
 ![FastAPI](https://img.shields.io/badge/FastAPI-069387?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-009cfb?style=for-the-badge&logo=telegram&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-103e2e?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-347a8c?style=for-the-badge&logo=flask&logoColor=white)
 ![Gin](https://custom-icon-badges.demolab.com/badge/Gin-0090d1?style=for-the-badge&logo=gin&labelColor=00405d)
 
@@ -142,7 +138,7 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
   </a>
 </p>
 
-<!-- summary -->
+<!-- Summary -->
 <p align="center">
   <a href="https://github.com/goodeejay">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goodeejay&theme=radical" alt="Jasur's GitHub Contribution" width="80%"/>
@@ -210,4 +206,11 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
 <br />
 
 <!-- Visitors and Hits -->
-<!-- [![HitCount](https://hits.dwyl.com/goodeejay/goodeejay.svg?style=flat-square)](http://hits.dwyl.com/goodeejay/goodeejay) -->
+<div align="right">
+  <a href="https://github.com/GooDeeJAY/" target="_blank">
+    <img src="https://hits.dwyl.com/goodeejay/goodeejay.svg?style=flat-square" alt="hits"/>
+  </a>
+  <a href="https://github.com/GooDeeJAY/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=goodeejay&style=flat-square" alt="views"/>
+  </a>
+</div>
