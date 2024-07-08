@@ -104,8 +104,12 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
             <td style="border: 1px solid transparent;"><a href="https://stackoverflow.com/users/8323650/goodeejay" target="_blank">
                 <img src="https://github-readme-stackoverflow.vercel.app/?userID=8323650&theme=dark" alt="GooDeeJAY StackOverflow"/> 
             </a></td>
-            <td style="border: 1px solid transparent;"><a href="https://leetcode.com/GooDeeJAY/" target="_blank">
+            <!-- <td style="border: 1px solid transparent;"><a href="https://leetcode.com/GooDeeJAY/" target="_blank">
                 <img src="https://leetcode-stats-six.vercel.app/?username=goodeejay&theme=dark" alt="Jasur's LeetCode stats"/>
+            </a></td>
+            -->
+            <td style="border: 1px solid transparent;"><a href="https://leetcode.com/GooDeeJAY/" target="_blank">
+                <img src="https://leetcode-stats.vercel.app/api?username=GooDeeJAY&theme=Dark" alt="Jasur's LeetCode stats"/>
             </a></td>
         </tr>
     </table>
@@ -154,7 +158,16 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
   <summary><h3>🎧 Spotify </h3></summary>
   <div align="center">
     <a href="https://open.spotify.com/playlist/5E8N3x25YNEVa1Fhe2mOYx?si=720ea2b50742498a" target="_blank"> 
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=ye6xvindl58uxcikrnmttlowg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile"/>
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ye6xvindl58uxcikrnmttlowg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="spotify-github-profile"/>
+    </a>
+  </div>
+</details>
+
+<details> 
+  <summary><h3>✍️ Random Dev Quote </h3></summary>
+  <div align="center">
+    <a href="https://github.com/GooDeeJAY/"> 
+      <img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=false" alt="random-dev-quote"/>
     </a>
   </div>
 </details>
