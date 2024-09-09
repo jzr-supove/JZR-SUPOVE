@@ -118,11 +118,11 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
 ### Github Statistics
 
 <p align="center"> 
-  <a href="https://github.com/goodeejay">
-    <img alt="Jasur Yusupov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=goodeejay&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="54%"/>
+  <a href="https://github.com/jzr-supove">
+    <img alt="Jasur Yusupov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=jzr-supove&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="54%"/>
   </a>
-  <a href="https://github.com/goodeejay">
-    <img alt="Jasur Yusupov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=goodeejay&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="44%"/>
+  <a href="https://github.com/jzr-supove">
+    <img alt="Jasur Yusupov's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jzr-supove&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="44%"/>
   </a>
 </p>
 
@@ -130,26 +130,26 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
   <summary><h6>More stats</h6></summary>
 
 <!-- Trophies -->
-<a href="https://github.com/goodeejay">
-  <img src="https://github-profile-trophy.vercel.app/?username=goodeejay&theme=dracula&column=-1&margin-w=15&margin-h=15&no-bg=true" alt="github-profile-trophies"/>
+<a href="https://github.com/jzr-supove">
+  <img src="https://github-profile-trophy.vercel.app/?username=jzr-supove&theme=dracula&column=-1&margin-w=15&margin-h=15&no-bg=true" alt="github-profile-trophies"/>
 </a>
 <br/><br/>
 
 <!-- Streaks -->
 <p align="center">
-  <a href="https://github.com/goodeejay">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=goodeejay&theme=radical&border=7F3FBF&background=0D1117" alt="Jasur's GitHub streak" height="192px" width="49.5%" />
+  <a href="https://github.com/jzr-supove">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzr-supove&theme=radical&border=7F3FBF&background=0D1117" alt="Jasur's GitHub streak" height="192px" width="49.5%" />
   </a>
 </p>
 
 <!-- Summary -->
 <p align="center">
   <a href="https://github.com/goodeejay">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goodeejay&theme=radical" alt="Jasur's GitHub Contribution" width="80%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jzr-supove&theme=radical" alt="Jasur's GitHub Contribution" width="80%"/>
   </a>
 </p>
 
-![Jasur Yusupov's Graph](https://github-readme-activity-graph.vercel.app/graph?username=goodeejay&custom_title=Jasur%20Yusupov's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Jasur Yusupov's Graph](https://github-readme-activity-graph.vercel.app/graph?username=jzr-supove&custom_title=Jasur%20Yusupov's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </details>
 
@@ -166,7 +166,7 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
 <details> 
   <summary><h3>✍️ Random Dev Quote </h3></summary>
   <div align="center">
-    <a href="https://github.com/GooDeeJAY/"> 
+    <a href="https://github.com/jzr-supove/"> 
       <img src="https://quotes-github-readme.vercel.app/api?theme=catppuccin_mocha&type=horizontal&border=false" alt="random-dev-quote"/>
     </a>
   </div>
@@ -220,10 +220,10 @@ I am a Software Engineer from Tashkent, Uzbekistan, with 5+ years of experience 
 
 <!-- Visitors and Hits -->
 <div align="right">
-  <a href="https://github.com/GooDeeJAY/" target="_blank">
+  <a href="https://github.com/jzr-supove/" target="_blank">
     <img src="https://hits.dwyl.com/goodeejay/goodeejay.svg?style=flat-square" alt="hits"/>
   </a>
-  <a href="https://github.com/GooDeeJAY/" target="_blank">
+  <a href="https://github.com/jzr-supove/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=goodeejay&style=flat-square" alt="views"/>
   </a>
 </div>
